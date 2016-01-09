@@ -1,0 +1,12 @@
+git diff //对比working directory 和 stage 的差别  
+git diff --cached //对比stage和history 历史 版本库的差别
+git diff HEAD //对比working directory 和 history 历史片版本库的差别
+git branch test
+git checkout test //切换分支
+git branch //查看分支
+git checkout master //1.合并分支前先切换到要合并得分支 2.git merge test //合并test分支到master分支
+
+git branch -d test //删除分支
+git branch -m test test2 //将test分支重命名为test2 这个命令不常使用
+
+hello
