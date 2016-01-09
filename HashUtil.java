@@ -19,7 +19,7 @@ public final  class HashUtils {
 
 
 	/** 
-     * 用MD5压缩算法，生成hashmap的value值 
+     * 用MD5压缩算法，生成hashmap的value值  // 
      *  
      * @param source 
      * @return 
