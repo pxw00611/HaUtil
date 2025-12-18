@@ -1,0 +1,18 @@
+```
+# Compiled Java classes
+*.class
+
+# Serialized objects
+*.ser
+
+# Dependencies
+lib/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Editors
+.vscode/
+.idea/
+```
